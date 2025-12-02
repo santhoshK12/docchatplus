@@ -1,0 +1,16 @@
+# Ignore models (weights too large)
+models/
+*.bin
+*.safetensors
+
+# Python cache
+__pycache__/
+*.pyc
+
+# venv
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
